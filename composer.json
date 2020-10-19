@@ -1,0 +1,15 @@
+{
+    "name": "rboli/passgen",
+    "description": "Password Generator",
+    "type": "project",
+    "require": {
+        "bjeavons/zxcvbn-php": "^1.1"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Rui Oliveira",
+            "email": "r.b.oliveira@outlook.pt"
+        }
+    ]
+}
